@@ -1,0 +1,10 @@
+planta https://dle.rae.es/planta
+edificio https://dle.rae.es/edificio?m=form
+coche https://dle.rae.es/coche?m=form
+persona https://dle.rae.es/persona?m=form
+gas https://dle.rae.es/gas?m=form
+luz https://dle.rae.es/luz?m=form
+felicidad https://dle.rae.es/felicidad?m=form
+ciervo https://dle.rae.es/ciervo?m=form
+patín https://dle.rae.es/pat%C3%ADn?m=form
+manzana https://dle.rae.es/manzana?m=form
