@@ -1,0 +1,10 @@
+Playa- https://dle.rae.es/playa?m=form
+Libro- https://dle.rae.es/libro?m=form
+Coche- https://dle.rae.es/coche
+Manzana- https://dle.rae.es/manzana?m=form
+Reloj- https://dle.rae.es/reloj?m=form
+Planta- https://dle.rae.es/planta?m=form
+Armario- https://dle.rae.es/armario?m=form
+Ciudad- https://dle.rae.es/ciudad?m=form
+Alegría- https://dle.rae.es/alegr%C3%ADa
+Afecto- https://dle.rae.es/afecto?m=form
